@@ -13,6 +13,11 @@ public static void main(String[] args) {
 	WebElement txtAdact = driver.findElement(By.xpath("//p[contains(text(),'Adactin')]"));
 	String text = txtAdact.getText();
 	System.out.println(text);
+	System.out.println(text);
+	System.out.println(text);
+	System.out.println(text);
+	System.out.println(text);
+	
 	
 	
 }
